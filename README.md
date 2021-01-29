@@ -33,7 +33,9 @@ THEN the password is either displayed in an alert or written to the page
   * JavaScript
   * HTML
   * CSS
-The following image demonstrates the application functionality:
+The following 
+
+image demonstrates the application functionality:
 
 ## Screenshot
 ![screenshot](./PasswordGenerator)
